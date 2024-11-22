@@ -16,12 +16,7 @@ package com.jn.slidingwindow;
  的长度。
  */
 public class sd2730 {
-
-}
-
-
-//正确示范
-class Solution {
+    //正确示范
     public int longestSemiRepetitiveSubstring(String s) {
         if (s.length() == 1) {
             return 1;
