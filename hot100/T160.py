@@ -1,12 +1,7 @@
 
 
 from typing import Optional
-
-
-class ListNode:
-    def __init__(self, x):
-        self.val = x
-        self.next = None
+from Type import ListNode
 
 # 一、反转链表
 # 不能用反转链表，因为题目表示不能改变原链表
