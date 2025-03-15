@@ -28,3 +28,6 @@ replay_pid*
 
 # node_moudles
 node_modules/
+
+# venv
+.venv9/
