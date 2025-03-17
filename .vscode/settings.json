@@ -1,3 +1,93 @@
-{
-    "editor.fontSize": 16
-}
+// {
+//     "editor.tokenColorCustomizations": {
+//         "textMateRules": [
+//             {
+//                 "scope": "keyword", // 关键字（如 public、class、static）
+//                 "settings": {
+//                     "foreground": "#81a1c1" // 蓝色
+//                 }
+//             },
+//             {
+//                 "scope": "string", // 字符串
+//                 "settings": {
+//                     "foreground": "#a3be8c" // 橙色
+//                 }
+//             },
+//             {
+//                 "scope": "comment", // 注释
+//                 "settings": {
+//                     "foreground": "#81a1c1" // 绿色
+//                 }
+//             },
+//             {
+//                 "scope": "entity.name.type.class", // 类名
+//                 "settings": {
+//                     "foreground": "#81a1c1" // 青色
+//                 }
+//             },
+//             {
+//                 "scope": "entity.name.function", // 方法名
+//                 "settings": {
+//                     "foreground": "#88c0d0" // 浅黄色
+//                 }
+//             },
+//             {
+//                 "scope": "variable", // 变量
+//                 "settings": {
+//                     "foreground": "#fff" // 浅蓝色
+//                 }
+//             },
+//             {
+//                 "scope": "constant.numeric", // 数字
+//                 "settings": {
+//                     "foreground": "#b48ead" // 浅绿色
+//                 }
+//             },
+//             {
+//                 "scope": "keyword.operator", // 操作符（如 +、-、*、/）
+//                 "settings": {
+//                     "foreground": "#fff" // 浅灰色
+//                 }
+//             },
+//             {
+//                 "scope": "storage.modifier", // 修饰符（如 public、private）
+//                 "settings": {
+//                     "foreground": "#81a1c1" // 蓝色
+//                 }
+//             },
+//             {
+//                 "scope": "meta.declaration.annotation", // 注解
+//                 "settings": {
+//                     "foreground": "#636f88" // 紫色
+//                 }
+//             },
+//             {
+//                 "scope": [
+//                     "storage.type.primitive.java",
+//                     "meta.definition.variable.java",
+//                     "meta.method.body.java",
+//                     "meta.method.java",
+//                     "meta.class.body.java",
+//                     "meta.class.java",
+//                     "source.java"
+//                 ],
+//                 "settings": {
+//                     "foreground": "#81a1c1"
+//                 }
+//             },
+//             {
+//                 "scope": [
+//                     "keyword.control.java",
+//                     "meta.method.body.java",
+//                     "meta.method.java",
+//                     "meta.class.body.java",
+//                     "meta.class.java",
+//                     "source.java"
+//                 ],
+//                 "settings": {
+//                     "foreground": "#81a1c1"
+//                 }
+//             }
+//         ]
+//     }
+// }
