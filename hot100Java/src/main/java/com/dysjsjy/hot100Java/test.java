@@ -1,25 +1,23 @@
 package com.dysjsjy.hot100Java;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.PriorityQueue;
+import java.util.Set;
+
+import com.dysjsjy.hot100Java.Sample.ListNode;
+import com.dysjsjy.hot100Java.Sample.TreeNode;
+
 public class test {
     public static void main(String[] args) {
-        Dog.sayHello();
-    }
-}
 
-
-// Java静态方法也是可以继承的
-class Animal {
-    public void shout() {
-        System.out.println("动物叫");
-    }
-
-    public static void sayHello() {
-        System.out.println("hello");
-    }
-}
-
-class Dog extends Animal {
-    public void shout() {
-        System.out.println("汪汪汪");
     }
 }
